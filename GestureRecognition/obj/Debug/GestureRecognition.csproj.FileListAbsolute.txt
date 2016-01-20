@@ -1,0 +1,1 @@
+c:\users\mahsa\documents\visual studio 2012\Projects\GestureRecognition\GestureRecognition\bin\Debug\GestureRecognition.exe.config

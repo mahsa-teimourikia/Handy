@@ -2,6 +2,8 @@
 
 Handy is a configurable gesture recognition system using Microsoft Kinect developed as my Master Thesis at Politecnico di Milano. Handy is developed on top of TipTep Skeletonizer (http://tiptep.com/portfolio/skeleton) in .Net environment and using Kinect for Windows SDK.
 
+With the use of Dynamic Time Warping (DTW) and Hidden Markov Models I have created a model to recognize the hand gestures of the users which is used for home automation.
+
 For further information the following pulications can be reviewed:
 
 Teimourikia, Mahsa, et al. "Personalized Hand Pose and Gesture Recognition System for the Elderly." International Conference on Universal Access in Human-Computer Interaction. Springer International Publishing, 2014.
